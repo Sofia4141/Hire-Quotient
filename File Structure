@@ -1,0 +1,15 @@
+- backend/
+  - models/
+    - User.js
+    - Message.js
+  - controllers/
+    - authController.js
+    - chatController.js
+  - middleware/
+    - authMiddleware.js
+  - utils/
+    - llmApi.js
+  - routes/
+    - authRoutes.js
+    - chatRoutes.js
+  - server.js
